@@ -6,6 +6,8 @@
 
 Chem-Expo explores the possibility of demonstrating fully-animated real-life chemical reactions while integrating them with the fundamental concepts of Computer Graphics and Visualization paradigm. In our project, we have worked with two popular reactions of chemistry, namely – formation of sulfuric acid (H2O + SO3 -> H2SO4 ) and bromination of methyl-cyclopentane ( methyl-cyclopentane + HBr -> bromo-methyl-cyclopentane ). 
 
+### Demo Video Link - https://drive.google.com/file/d/1OsBBYy-6fkQGbtQrVuszhREi3YWLnnlO/view?usp=sharing
+
 We can install OpenGL using:
 
 ```
